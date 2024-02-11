@@ -17,7 +17,7 @@
             <div>
                 <button type="button" class="btn btn-primary mt-2">予定新規作成</button>
             </div>
-            <div class="mt-2 ">
+            <div class="mt-2">
                 <div class="input-group">
                     <input type="text" id="txt-search" class="form-control input-group-prepend" placeholder="キーワードを入力"></input>
                     <span class="input-group-btn input-group-append">

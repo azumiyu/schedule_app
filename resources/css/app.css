@@ -4,8 +4,8 @@
 
 .sub_header{
     height:60px;
-    background-color: 
-    #d4ebec; margin-top:50px;
+    background-color:#d4ebec;
+    margin-top:50px;
     display: flex;
     justify-content:space-between;
 }
@@ -22,4 +22,22 @@
     overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+table {
+    font-size: x-small;
+}
+.kaisai {
+    background-color: aquamarine;
+}
+.syuryou {
+    background-color: #cccccc;
+}
+.uketuketyu {
+    background-color: white;
 }
