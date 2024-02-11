@@ -14,7 +14,7 @@
             <thead>
                 <tr>
                     <th scope="col">#</th>
-                    <th scope="col">タイトル</th>
+                    <th scope="col">タイトルu</th>
                     <th scope="col">場所</th>
                     <th scope="col">日時</th>
                 </tr>
